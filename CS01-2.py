@@ -1,4 +1,5 @@
-A = input()
+A = int(input())
     
 
+print("Birthday:")
 print(A)
