@@ -1,3 +1,4 @@
-A = input("Aroi mak mak")
+A = input()
+    
 
 print(A)
