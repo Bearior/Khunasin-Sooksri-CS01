@@ -1,5 +1,5 @@
-A = int(input())
+A = input()
     
 
-print("Birthday:")
+
 print(A)
