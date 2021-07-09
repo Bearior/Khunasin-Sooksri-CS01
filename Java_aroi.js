@@ -1,2 +1,4 @@
-print("AroiDee")
-alert("This is Javascript")
+alert("Aroidee");
+
+    print("Holy moly");
+    
